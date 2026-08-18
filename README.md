@@ -1,4 +1,4 @@
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/1defb163-f7c9-4935-9470-1ab9dfb33136" /># Hi there, I'm Ifra Naz 👋
+ Hi there, I'm Ifra Naz 👋
 
 **Frontend Developer | AI Agent Developer**  
 Building responsive web apps, interactive tools & AI-powered solutions from Karachi, Pakistan.
