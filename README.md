@@ -1,4 +1,4 @@
-# Hi there, I'm Ifra Naz 👋
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/1defb163-f7c9-4935-9470-1ab9dfb33136" /># Hi there, I'm Ifra Naz 👋
 
 **Frontend Developer | AI Agent Developer**  
 Building responsive web apps, interactive tools & AI-powered solutions from Karachi, Pakistan.
@@ -42,8 +42,11 @@ Building responsive web apps, interactive tools & AI-powered solutions from Kara
 
 ### 📊 GitHub Stats
 
-![Ifra's GitHub stats](https://github-readme-stats.vercel.app/api?username=ifranaz408-netizen&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ifranaz408-netizen&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ifranaz408-netizen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifranaz408-netizen&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
 
 ---
 
