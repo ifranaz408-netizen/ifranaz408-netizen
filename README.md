@@ -4,6 +4,8 @@
 Building responsive web apps, interactive tools & AI-powered solutions from Karachi, Pakistan.
 
 ---
+💼 **Available for Freelance Projects!**  
+🌐 **Live Portfolio:** https://ifra-naz-portfolio.netlify.app/
 
 ### 🚀 About Me
 
